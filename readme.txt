@@ -6,3 +6,7 @@ Git has a mutable index called stage.
 测试4
 荷花1
 dev分支修改
+featurel1分支修改
+master分支增加修改
+Creating a new branch is quick and simple.
+分支dev管理
